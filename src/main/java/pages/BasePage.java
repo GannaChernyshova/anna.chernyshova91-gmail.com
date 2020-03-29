@@ -1,4 +1,4 @@
-package com.epam.pages;
+package pages;
 
 
 import com.epam.healenium.SelfHealingDriver;
